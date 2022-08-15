@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.check{
+color: rgb(135, 13, 250);
+font-style: italic;
+font-weight: 600;
+
+
+
+}
+.point{
+
+color: brown;
+font-style: oblique;
+font-weight: 300;
+
+
+}
+.bingo #bin{
+color: aquamarine;
+font-weight: 700;
+font-style: inherit;
+
+
+
+
+}
+.bingo #GO{
+color: rgb(164, 251, 251);
+
+}
+.bingo{
+color: blue;
+
+
+
+
+}
+
+
+
+    
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px; width: 100% ;
+    padding: 10px  5px;
+    box-sizing: border-box;
+    background:rgba(0,0, 0.6) ;
+    border-bottom:  1px  solid rgb(208, 19, 19);
+    display: inline;
+
+}
+nav  ul a {
+    display: block;
+    line-height: 32px;
+    color:rgb(25, 215, 240) ;
+    padding-top: 0px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    
+    text-transform: uppercase;
+   display: inline;
+}
+   p{
+    font-style: initial;
+    
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
